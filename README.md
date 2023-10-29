@@ -6,4 +6,4 @@
 ### Title : Professional profile
 ### College : KG College of Arts and Science
 ### Roll No :2126kb52
-### Class :B.cs C.T
+### Class :B.sc C.T
